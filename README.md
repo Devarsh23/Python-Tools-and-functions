@@ -1,4 +1,5 @@
 # Python-Tools-and-functions
+## [Click Here to Go On more detailed article in analytics vidhya](https://medium.com/analytics-vidhya/python-functions-and-features-that-makes-the-language-breakthrough-when-compared-to-other-4890bd6020ba)
 This repository describe the use fullness of python language with code of its user friendly functions 
 Notable python function which makes the python programming language over the edge for problem solving
 Python the programming language termed as the language to be the most effective language in the upcoming due to its massive open source support.
